@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0; /* culoare de fundal */
+    font-family: Arial, sans-serif; /* fontul principal */
+}
+#frm {
+    background-color: #ffffff; /* culoare de fundal a formularului */
+    width: 300px;
+    margin: 0 auto; /* centrare pe pagină */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* umbra */
+}
+h1 {
+    text-align: center;
+    color: #4CAF50; /* culoarea textului pentru titlu */
+}
+label {
+    color: #4CAF50; /* culoarea textului pentru etichete */
+}
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc; /* bordura câmpurilor de input */
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="submit"] {
+    background-color: #4CAF50; /* culoarea de fundal a butonului de submit */
+    color: white; /* culoarea textului pentru buton */
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #45a049; /* culoarea de fundal a butonului de submit la hover */
+}
