@@ -20,8 +20,6 @@ Discover a wide range of products inspired by "The Little Prince," including:
 The website ensures a secure and easy shopping experience with features such as:
 
 - **User Accounts:** Create an account to manage your orders, save your favorite items, and enjoy a personalized shopping experience.
-- **Secure Payment Options:** Multiple payment methods, including credit cards, PayPal, and other secure payment gateways.
-- **Order Tracking:** Keep track of your orders with real-time updates and notifications.
 
 ### 4. Rich Multimedia Content 🎨🎥
 Immerse yourself in the world of "The Little Prince" with rich multimedia content:
