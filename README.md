@@ -1,6 +1,5 @@
 
 The Little Prince Shop - A Magical Shopping Experience 🌟
-Introduction
 Welcome to The Little Prince Shop, your ultimate destination for all things related to the enchanting world of Antoine de Saint-Exupéry's timeless classic, "The Little Prince." My online store offers a curated selection of products that capture the essence of this beloved tale, from exclusive merchandise to rare collectibles. The website has been meticulously crafted using cutting-edge web technologies, including CSS, HTML, JavaScript, jQuery, and PHP, to ensure a seamless and delightful shopping experience.
 
 Website Features
